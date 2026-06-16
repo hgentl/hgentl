@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm a mature Comuting and IT student specilising in software development  👋
 
 <!--
 **hgentl/hgentl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
