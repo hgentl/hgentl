@@ -6,5 +6,4 @@
 *  📫 How to reach me:
 	* Email hgentle@protonmail.com
 	* Linkedin:  https://www.linkedin.com/in/h-gentle/
-* ⚡ Fun fact: 
 
