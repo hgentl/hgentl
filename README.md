@@ -1,5 +1,5 @@
 # Hi there 👋
-## I'm a mature Computing & IT student specilising in software development 
+#### I'm a mature Computing & IT student specilising in software development 
 *  🔭 I’m currently working on: A Toy Web Browser
 *  🌱 I’m currently learning: Network programming & Internet infrastructure
 *  🤔 I’m looking for help with: Networking concepts
