@@ -28,5 +28,5 @@ Alongside my studies, I have experience helping people build confidence using di
 
 ## Connect
 
-- LinkedIn: https://www.linkedin.com/in/h-gentle/
+- LinkedIn: linkedin.com/in/h-gentle/
 - Email: hgentle@protonmail.com
