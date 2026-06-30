@@ -1,6 +1,6 @@
 # Hi, I'm Harry 👋
 
-I'm a Computing & IT student at The Open University, interested in software engineering, internet infrastructure, web security, and digital inclusion.
+I'm a Computing & IT student at The Open University, interested in software engineering, Internet infrastructure, web security, and digital inclusion.
 
 I'm currently building a small toy web browser in Java to deepen my understanding of HTTP, HTML parsing, rendering, and how browsers turn web content into interactive pages.
 
