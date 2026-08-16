@@ -6,9 +6,9 @@ I'm a Computing & IT student at The Open University, interested in software engi
 
 ## Featured projects
 ### University Coursework
-* A,
-* B,
-* c, 
+* A, [Link to Repo](https://github.com/hgentl/Hotel-Safe)
+* B, [Link to Repo](https://github.com/hgentl/Freight)
+* c, [Link to Repo](https://github.com/hgentl/BirdRecords)
 ### Personal Projects 
 #### NetIntel
 A Go-based command-line tool for analysing web infrastructure and security-related signals, including DNS resolution, TLS configuration, redirects, HTTP responses, and security headers.
