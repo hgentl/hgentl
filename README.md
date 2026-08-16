@@ -7,11 +7,11 @@ I'm a Computing & IT student at The Open University, interested in software engi
 ## Selected University Projects
 ### M250 Object-orientated Java Programming
 * [Hotel Safe](https://github.com/hgentl/Hotel-Safe)
-A small object-oriented model of a hotel safe, focusing on encapsulation, composition, delegation, and interactions between objects.\
+A small object-oriented model of a hotel safe, focusing on encapsulation, composition, delegation, and interactions between objects.
 * [Freight Company](https://github.com/hgentl/Freight)
-A freight management system demonstrating inheritance, abstract classes, interfaces, polymorphism, and method overriding.\
+A freight management system demonstrating inheritance, abstract classes, interfaces, polymorphism, and method overriding.
 * [Bird records](https://github.com/hgentl/BirdRecords)
-A bird-watching record system demonstrating data modelling, defensive programming, error handling, JUnit testing, and CSV persistence.\
+A bird-watching record system demonstrating data modelling, defensive programming, error handling, JUnit testing, and CSV persistence.
 
 ### M269 Data Structures, Algorithms and Computability
 Todo later
