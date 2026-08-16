@@ -7,12 +7,19 @@ I'm a Computing & IT student at The Open University, interested in software engi
 ## Featured projects
 ### University Coursework
 #### M250 Object-orientated Java Programming
-* Hotel Safe, [Link to Repo](https://github.com/hgentl/Hotel-Safe)
-* Freight, [Link to Repo](https://github.com/hgentl/Freight)
-* Bird records, [Link to Repo](https://github.com/hgentl/BirdRecords)
+##### Hotel Safe
+A small object-oriented model of a hotel safe, focusing on encapsulation, composition, delegation, and interactions between objects.\
+[Veiw project](https://github.com/hgentl/Hotel-Safe)
+##### Freight Company
+A freight management system demonstrating inheritance, abstract classes, interfaces, polymorphism, and method overriding.
+[Veiw project](https://github.com/hgentl/Freight)
+##### Bird records
+A bird-watching record system demonstrating data modelling, defensive programming, error handling, JUnit testing, and CSV persistence.
+[Veiw project](https://github.com/hgentl/BirdRecords)
 #### M269 Data Structures, Algorithms and Computability
+Todo later
 
-
+---
 ### NetIntel
 A Go-based command-line tool for analysing web infrastructure and security-related signals, including DNS resolution, TLS configuration, redirects, HTTP responses, and security headers.
 ### PyPot
