@@ -4,7 +4,7 @@ I'm a Computing & IT student at The Open University, interested in software engi
 * [LinkedIn](linkedin.com/in/h-gentle)
 * Email: hgentle@protonmail.com
 
-## Featured University Projects
+## Selected University Projects
 #### M250 Object-orientated Java Programming
 ##### Hotel Safe
 A small object-oriented model of a hotel safe, focusing on encapsulation, composition, delegation, and interactions between objects.\
