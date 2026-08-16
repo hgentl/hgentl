@@ -1,7 +1,7 @@
 # Hi, I'm Harry 👋
 
 I'm a Computing & IT student at The Open University, interested in software engineering, Internet infrastructure, web security, and digital inclusion. Confident in Java, Go and Python.
-* LinkedIn: linkedin.com/in/h-gentle/
+* [LinkedIn](linkedin.com/in/h-gentle)
 * Email: hgentle@protonmail.com
 
 ## Featured projects
