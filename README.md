@@ -6,11 +6,13 @@ I'm a Computing & IT student at The Open University, interested in software engi
 
 ## Featured projects
 ### University Coursework
+#### M250 Object-orientated Java Programming
 * Hotel Safe, [Link to Repo](https://github.com/hgentl/Hotel-Safe)
 * Freight, [Link to Repo](https://github.com/hgentl/Freight)
 * Bird records, [Link to Repo](https://github.com/hgentl/BirdRecords)
-### Personal Projects 
-#### NetIntel
+
+
+### NetIntel
 A Go-based command-line tool for analysing web infrastructure and security-related signals, including DNS resolution, TLS configuration, redirects, HTTP responses, and security headers.
 ### PyPot
 A lightweight Flask honeypot that simulates common web attack targets and logs suspicious HTTP probing behaviour.
